@@ -45,7 +45,8 @@
 
 -------------------------------------------------------------------------------------------
 
-8. The read() function returns the entire contents of a file as a single string, while readlines() returns a list of strings, where each string represents a line of the file.
+8. The read() function returns the entire contents of a file as a single string, while readlines() returns a list of strings, where each 
+string represents a line of the file.
 
 -------------------------------------------------------------------------------------------
 
